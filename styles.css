@@ -98,34 +98,34 @@ img {
 /*****************************
 * Dot customizations go here
 ******************************/
-.dot.orange {
-    background-color: rgba(255, 133, 25, 0.65);
-}
-
 .dot.blue {
-    background-color: rgba(0, 93, 255, 0.65);
+    background-color: rgba(40, 66, 255, 0.65);
 }
 
-.dot.green {
-    background-color: rgba(12, 232, 196, 0.65);
+.dot.red {
+    background-color: rgba(255, 0, 0, 0.65);
 }
 
-.dot.solar {
-    top: 53%;
-    left: 25%;
-    transform: translate(-25%, -53%);
+.dot.orange {
+    background-color: rgba(232, 110, 12, 0.65);
 }
 
-.dot.camera {
-    top: 14%;
-    left: 27%;
-    transform: translate(-27%, -14%);
+.dot.stool1 {
+    top: 60%;
+    left: 58%;
+    transform: translate(-58%, -60%);
 }
 
-.dot.wheels {
-    top: 71%;
-    left: 60%;
-    transform: translate(-60%, -71%);
+.dot.stool2 {
+    top: 49%;
+    left: 44%;
+    transform: translate(-44%, -49%);
+}
+
+.dot.stool3 {
+    top: 44%;
+    left: 40%;
+    transform: translate(-40%, -44%);
 }
 
 /*********************************
